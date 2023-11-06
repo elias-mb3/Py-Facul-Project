@@ -1,6 +1,3 @@
-# Py-Facul-Project
-Projeto para demonstrar minhas habilidades em python, criando um jogo para adivinhar um número em 10 chances
-
 # Objetivo
 O objetivo principla desse projeto é demonstrar de forma prática meus conhecimento em python por meio de um projetinho simples, porem importante para fortalecer conceitos que são a base da lógica de programação.
 
